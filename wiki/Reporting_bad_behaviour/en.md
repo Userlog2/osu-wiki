@@ -22,7 +22,7 @@ For anything else, see the instructions below.
 
 ### The !report command
 
-*Caution: Reporting a user via the `!report` command in osu!(lazer) will not work, and the report will be **visible to everyone!** Instead, [use the report menu](/wiki/Reporting_bad_behaviour#lazer-reports).*
+*Caution: Reporting a user via the `!report` command in osu!(lazer) does not work, and the report will be **visible to everyone!** Instead, [use the report menu](/wiki/Reporting_bad_behaviour#lazer-reports).*
 
 ![](img/report-command.jpg "Example of using the !report command")
 
