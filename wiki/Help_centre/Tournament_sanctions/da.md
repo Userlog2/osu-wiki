@@ -95,4 +95,4 @@ I sjældne situationer kan [kontostøtteholdet](/wiki/People/Account_support_tea
 ![](img/tourney-ban-profile-DA.png "En turneringskarantæne på en brugers profil")
 :::
 
-Tidsubestemte turneringskarantæner og turneringskarantæner, som har blevet pålagt en bruger på andre måder end de [almindelige anmodningsbetingelser](/wiki/Help_centre/Account_restrictions#appeal-granted), er synlige på en brugers profil, mens de er aktive. Andre turneringssanktioner (dvs. medhjælperkarantæner,  arrangørkarantæner og betingede arrangørkarantæner) er ikke offentligt synlige på denne måde.
+Tidsubestemte turneringskarantæner og turneringskarantæner, som har blevet pålagt en bruger på andre måder end de [almindelige anmodningsbetingelser](/wiki/Help_centre/Account_restrictions#appeal-granted), er synlige på en brugers profil for hele karantænens varighed, samt for **28 dage** efter karantænens udløb. Andre turneringssanktioner (dvs. medhjælperkarantæner, arrangørkarantæner og betingede arrangørkarantæner) er ikke offentligt synlige på denne måde.
