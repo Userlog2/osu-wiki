@@ -4,7 +4,7 @@ legal: true
 
 # osu! privacy policy
 
-Last updated 22 January 2026. [View history here.](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md)
+Last updated 24 April 2026. [View history here.](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md)
 
 In addition to this policy, please also make sure to visit and understand our [Terms of Service](/wiki/Legal/Terms).
 
